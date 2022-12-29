@@ -1,3 +1,11 @@
+#
+# This Git Ignore file is tailored for the Tools directory
+#
+
+# ignore the executable products of Make.
+Bin2Hex
+Hex2Bin
+
 # Prerequisites
 *.d
 
